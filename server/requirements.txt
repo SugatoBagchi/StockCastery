@@ -7,7 +7,6 @@ keras
 pandas 
 pyyaml
 numpy 
-matplotlib 
 yahoo_fin 
 yfinance
 sklearn
