@@ -1,0 +1,13 @@
+flask
+flask-cors
+requests
+jsonify
+tensorflow
+keras
+pandas 
+pyyaml
+numpy 
+matplotlib 
+yahoo_fin 
+yfinance
+sklearn
